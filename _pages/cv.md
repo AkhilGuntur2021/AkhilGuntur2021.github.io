@@ -14,6 +14,8 @@ Education
 * B.Tech. in Electronics and Communications Engineering, Manipal Institute of Technology, Manipal, India (July 2015 - May 2019)
 * M.S. in Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, PA (May 2020 - August 2020)
 * M.S. in Electrical and Computer Engineering, Purdue University, West Lafayette, IN (August 2021 - Dec 2022)
+  * Gold Medals: Recipient of outstanding student award for semesters 6 and 8  
+  * Minor specialization in Signal Processing
 
 Relavant Coursework
 ======
@@ -115,4 +117,9 @@ Technical Certifications
 ======  
 * Microsoft Technology Associate ([MTA](https://drive.google.com/file/d/0B7085L2n7aQLN3VIYkpSQ0JuNDdnVDBwdnlWOGhReENSUm5z/view?resourcekey=0-o7QyVvgGT5NdX_BbNudIIQ)) : Obtained MTA certification for cloud fundamentals 
 * Online certificates:  Machine Learning with MATLAB([Coursera](https://www.coursera.org/account/accomplishments/certificate/KFVHHJZK4RWK?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)), Introduction to Data Science in Python([Coursera](https://www.coursera.org/account/accomplishments/certificate/4D5Q54P5ATEX?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)), Python for Everybody([Coursera](https://www.coursera.org/account/accomplishments/certificate/6CAEUBXD5N2P?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)), Using Python to Access Web Data([Coursera](https://www.coursera.org/account/accomplishments/certificate/HJVWMGQUXZUY?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)), Python Data Structures([Coursera](https://www.coursera.org/account/accomplishments/certificate/25N7FKMLYW9Futm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate))
+
+Positions of Responsibility
+======                                                                           
+* IE-E&C Management committee: Part of the management committee, IE-E&C, technical college club responsible for organizing various workshops and technical events throughout the year            
+* Techtatva Organizer for Finance: Part of the organizing committee responsible for managing finances for college technical fest                                                                                                                 
 
