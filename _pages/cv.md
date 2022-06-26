@@ -98,7 +98,12 @@ Skills
 * OS
   * Linux
   * Windows
-
+* Developer Tools
+  *  Git
+  *  Docker
+  *  PyCharm
+  *  Jupyter Notebooks
+  *  Eclipse
 
 Publications
 ======
