@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Venkata Akhil Guntur"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "Graduate student in ECE, specializing in Machine Learning, Deep Learning & AI"
   location         : "West Lafayette, Indiana"
   employer         :
