@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Venkata Akhil Guntur"
+  avatar           : "Passport_photo.jpg"
+  bio              : "Graduate student in ECE, specializing in Machine Learning, Deep Learning & AI"
+  location         : "West Lafayette, Indiana"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
