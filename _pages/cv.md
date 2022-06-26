@@ -11,16 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electronics and Communications Engineering, Manipal Institute of Technology, Manipal, India (July 2015 - May 2019)
+* M.S. in Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, PA (May 2020 - August 2020)
+* M.S. in Electrical and Computer Engineering, Purdue University, West Lafayette, IN (August 2021 - Dec 2022)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2019 - July 2021: Project Engineer
+  * Extensive experience in Analysis, Design, Development, and Implementation of applications with thorough hands-on experience on flask framework, MVC architecture, Apache-Tomcat, CRUD Operations, MongoDB, SQL, Gradle. 
+  * Built authentication module by processing client’s employee ID cards using OpenCV and Tesseract OCR, with a 27% improved accuracy over the previous solution.
+  * Built claim form recognition module using OpenCV and Azure Form Recognizer cognitive service, which eliminated the need for time-consuming manual review. 
+  * Worked on virtual call auditor platform to automate the audit of customer-service rep transcripts using flask, MongoDB, Spacy models, and fasttext AI for effective     analysis of customer sentiment and experience, which improved the call audit efficiency by 70%. 
+  * Built a claim document classification model using image processing (OpenCV, PIL), OCR (Azure), and NLP (Scikit-learn, NLTK, Tensorflow).
+  * Setup and maintained Linux and Windows based servers for various backend services.
+
 
 * Fall 2015: Research Assistant
   * Github University
