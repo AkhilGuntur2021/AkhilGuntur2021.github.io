@@ -2,9 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Project Demos"
-    url: /talks/    
            
   - title: "CV"
     url: /cv/
