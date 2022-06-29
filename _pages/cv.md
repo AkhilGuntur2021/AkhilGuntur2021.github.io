@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my resume can be found 
-[here](<embed src="https://github.com/venkataakhilguntur/venkataakhilguntur.github.io/blob/master/resume/_Resume__VenkataAkhil_.pdf" type="application/pdf" />).
+Please find the PDF version of my resume [here](<embed src="https://venkataakhilguntur/venkataakhilguntur.github.io/blob/master/resume/_Resume__VenkataAkhil_.pdf" type="application/pdf" />)
 
 
 Education
