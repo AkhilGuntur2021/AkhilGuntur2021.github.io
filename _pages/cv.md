@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Please find the PDF version of my resume [here](/resume/index.html).
-
-
 Education
 ======
 * B.Tech. in Electronics and Communications Engineering, Manipal Institute of Technology, Manipal, India (July 2015 - May 2019)
