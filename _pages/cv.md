@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my resume can be found [here](resume/_Resume__VenkataAkhil_.pdf).
+A PDF version of my resume can be found [here](resume/index.html).
 
 
 Education
