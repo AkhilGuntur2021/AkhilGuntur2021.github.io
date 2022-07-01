@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my resume can be found [here](https://github.com/venkataakhilguntur/venkataakhilguntur.github.io/blob/master/resume/_Resume__VenkataAkhil_.pdf)
+A PDF version of my resume can be found [here](https://drive.google.com/file/d/1BRCOFrq-klm-4W9GjLk3MUzX1u09fOpi/view?usp=sharing)
 
 Education
 ======
