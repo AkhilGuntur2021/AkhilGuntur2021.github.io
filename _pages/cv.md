@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my resume can be found [here](https://drive.google.com/file/d/1EvE49vPWP5kPbXfsvQCMzJrLEc-gToKE/view?usp=drive_link).
+A PDF version of my resume can be found [here](https://drive.google.com/file/d/1RNWmrzo12lZAIO5hIpM-3a0m12ey2hpZ/view?usp=sharing).
 
 Education
 ======
