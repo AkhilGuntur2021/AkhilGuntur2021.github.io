@@ -102,6 +102,8 @@ Skills
   * Scikit-Image
 * NLP
   * NLTK
+  * spaCy
+  * Hugging Face
   * Gensim
   * TextBlob
 * Softwares
