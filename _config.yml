@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Venkata Akhil Guntur"
 title_separator          : "-"
 name                     : &name "Venkata Akhil Guntur"
-description              : &description "Graduate student specializing in Machine Learning, Deep Learning & AI"
+description              : &description "Currently @MathWorks | MS in ECE (Signal Processing & ML) from Purdue | Ex-Wipro HOLMES"
 url                      : https://venkataakhilguntur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "venkataakhilguntur/venkataakhilguntur.github.io"
@@ -82,12 +82,20 @@ analytics:
 author:
   name             : "Venkata Akhil Guntur"
   avatar           : "profile.png"
-  bio              : "Graduate student in ECE, specializing in Machine Learning, Deep Learning & AI"
-  location         : "West Lafayette, Indiana"
+  bio              : "👋 Hi, I’m Akhil Guntur – a Research Software Engineer passionate about building scalable AI/ML systems for real-world impact.
+
+                      💻 Currently @MathWorks | MS in ECE (Signal Processing & ML) from Purdue
+
+                      🔬 I work at the intersection of machine learning, deep learning, AI, scientific computing, and software engineering – from biosignal analytics to cloud-native ML pipelines.
+
+                      🛠️ Javascript, Python, C++, MATLAB, PyTorch, Tensorflow, AWS, Azure, GCP, Docker, Kubernetes
+
+                      📄 IEEE Author | NLP, ML, Deep Learning, Generative AI, Full Stack development"
+  location         : "Natick, MA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "vguntur@purdue.edu"
+  email            : "aakhilguntur@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :

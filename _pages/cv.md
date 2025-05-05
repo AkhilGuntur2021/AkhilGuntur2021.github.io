@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my resume can be found [here](https://drive.google.com/file/d/1BRCOFrq-klm-4W9GjLk3MUzX1u09fOpi/view?usp=sharing).
+A PDF version of my resume can be found [here](https://drive.google.com/file/d/1EvE49vPWP5kPbXfsvQCMzJrLEc-gToKE/view?usp=drive_link).
 
 Education
 ======
@@ -25,6 +25,19 @@ Deep learning, Intro to Deep Learning, Image and Video Processing, Intro to ML f
 
 Work experience
 ======
+
+* Jan 2023 -: SWE, The MathWorks Inc., Natick, MA
+  * Performed market basket analysis (Python, mlxtend) to identify product pairings that guided cross-sell and bundling strategies.
+  * Optimized ML data pipelines (PyArrow, Pandas, NumPy, SciPy) using AWS Glue, reducing preprocessing time by 30%.
+  * Created RESTful APIs for ML services, integrated with enterprise-grade systems and monitored via Azure/AWS (CloudWatch) pipelines.
+  * Revamped MATLAB figure rendering (OO patterns, MVC), boosting UI responsiveness by 40% and enabling serverless cloud rendering.
+  * Built a modular service layer (JS,MATLAB,C++), enabling lifecycle control and enhanced scalability on AWS (EC2,ECS), and on-prem.
+  * Re-architected MATLAB graphics stack, eliminating race conditions in bootstrapping pipeline to improve system stability by 40–50% of student grading.
+
+* May 2022 - Aug. 2022: SWE Intern, The MathWorks Inc., Natick, MA
+  * Designed and implemented translation evaluation metrics (BLEU, METEOR, GLEU, CHRF, NIST), enabling objective performance benchmarking for state-of-the-art LLMs in generative AI based machine translation workflows.
+  * Applied TF-IDF and Latent Semantic Analysis (LSA) on XML datasets for vector  embeddings, and developed deep learning models for automated language translation, reducing manual evaluation effort by 45%.
+
 
 * Jan 2022 - May 2022: General Leader and Scripting Expert, Security Education For All (SEFA) group, Purdue University, IN
   * Led a team of four students to integrate security education into programming courses by developing frameworks.
@@ -61,8 +74,9 @@ Skills
 ======
 * Programming
   * Python
+  * Javascript
+  * MATLAB
   * C++
-  * Java
   * R
 * Backend design 
   * flask
@@ -74,6 +88,7 @@ Skills
 * Data Science and ML
   * PyTorch
   * Tensorflow
+  * Hugging Face
   * Scikit-learn
   * NumPy
   * SciPy
@@ -90,13 +105,14 @@ Skills
   * Gensim
   * TextBlob
 * Softwares
-  * MATLAB
+  * MATLAB & Simulink
   * Statistica
   * MariaDB
   * Robo 3T
   * TesseractOCR
   * Proteus Design Suite
 * Cloud
+  * AWS
   * Google Cloud Platform
   * Azure
 * OS
