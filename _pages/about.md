@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-In my undergraduate studies, I realized a profound predilection towards signal processing (SP) and developed a strong desire to integrate it with nonlinear analysis and machine learning (ML) concepts. I believe this domain has a myriad of applications in Industy, which has engendered from my academic and professional experiences. These have been crucial in shaping my long-term goals, specifically, researching the various untapped areas of core SP and ML. With this motivation, I am currently pursing the Master of Science degree in Electrical and Computer Engineering at Purdue University, West Lafayette, Indiana.
+In my undergraduate studies, I realized a profound predilection towards signal processing (SP) and developed a strong desire to integrate it with nonlinear analysis and machine learning (ML) concepts. I believe this domain has a myriad of applications in Industy, which has engendered from my academic and professional experiences. These have been crucial in shaping my long-term goals, specifically, researching the various untapped areas of core SP and ML. With this motivation, I pursued and received a Master of Science degree in Electrical and Computer Engineering from Purdue University in West Lafayette, Indiana.
 
 Data Analytics Intern, IIM Lucknow, India
 ======
